@@ -1,0 +1,47 @@
+Starting test...
+Step 1: Importing modules...
+Step 2: API Key loaded: gsk_Q5nlis...
+Step 3: Creating game...
+✓ Groq LLM client initialized
+✓ Added NPC: Greta the Tavern Keeper
+✓ Added NPC: Aldric the Scholar
+✓ Added NPC: Captain Thorne
+
+Step 4: Testing NPC conversation...
+======================================================================
+
+🎭 Making Greta and Thorne talk...
+
+Conversation between Greta the Tavern Keeper and Captain Thorne:
+[Greta the Tavern Keeper]: Captain Thorne, it's been far too long since you've stopped by the Silver Mug, and I'm afraid the news isn't good - we've had a string of burglaries in town, and I'm starting to worry it'll scare off my regulars. Just last night, the bakery on the corner was hit, and now the whole town's abuzz with talk of thieves and cutpurses.
+[Captain Thorne]: Greta, I share your concerns, the recent string of burglaries has been a thorn in my side, and I've been working overtime to try and catch the culprits, but it seems like they're always one step ahead. I've got my men increasing patrols in the area, but I fear it's going to take more than just a show of force to put a stop to this, we need to get to the root of the problem.
+[Greta the Tavern Keeper]: I've heard rumors of a suspicious stranger lurking around town, Captain, a hooded figure that's been spotted near several of the burgled shops - I've even had a few of my regulars come in here, whispering about seeing them around the bakery just before it was hit. Do you think it's possible this stranger might be the one we're looking for, or just another innocent soul caught up in the gossip mill?
+[Captain Thorne]: I've heard those rumors too, Greta, and I've got my men asking questions, but so far, no one's come forward with a solid description or any concrete evidence linking this stranger to the burglaries. I'm not ruling it out, but I've been around long enough to know that rumors and gossip can be just as deadly as a dagger in the dark, and I need something more substantial to go on.
+
+
+🌍 Triggering a world event...
+🌍 [WORLD EVENT] Sudden Storm: Dark clouds gather and rain pours down
+
+💬 Player talking to Greta...
+[Greta]: Ah, welcome to the Silver Mug! On a nasty night like this, there's no better place to be. We've got a fire crackling, and our special of the evening is a fine Blackwood Ale. It's a favorite among the locals, and I think you'll find it warms the bones nicely. What do you say? A mug of Blackwood to start?
+
+📊 Showing NPC status card...
+
+╔══════════════════════════════════════════════════════════════════╗
+║                     Greta the Tavern Keeper                      ║
+╠══════════════════════════════════════════════════════════════════╣
+║  Role: Tavern Owner                                             ║
+║  Traits: jovial, gossipy, greedy                               ║
+╠══════════════════════════════════════════════════════════════════╣
+║  😊 Emotion: neutral                                            ║
+║  🤝 Trust: █████░░░░░ (  +0/100)                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🎯 Goal: Wants to keep her tavern profitable and be the center o ║
+║  🧠 Recent Memories:                                            ║
+║     • Player: 'Hello! What's the best drink you have?' | I respond ║
+║     • Had a conversation with Captain Thorne                     ║
+║  💬 Known Gossip:                                               ║
+║     • Captain Thorne mentioned: I've heard those rumors too, Greta ║
+╚══════════════════════════════════════════════════════════════════╝
+
+✅ ALL TESTS PASSED!

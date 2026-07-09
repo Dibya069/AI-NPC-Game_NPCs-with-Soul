@@ -1,0 +1,7 @@
+mlflow
+pandas
+numpy
+scikit-learn
+
+# AI NPC Game Requirements
+groq>=0.4.0
