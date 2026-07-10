@@ -51,6 +51,18 @@ Based on the architecture from the diagram, each NPC consists of three main laye
 👥 **Relationship Network**: NPCs form opinions about each other
 📜 **Conversation History**: Full memory of all interactions with each NPC
 
+### 🌍 Living World System ⭐⭐⭐ NEWEST
+🤖 **Autonomous NPCs**: NPCs act independently with their own schedules and goals
+🎯 **Dynamic Needs**: NPCs get hungry, tired, and seek social interaction
+📋 **Multi-Step Planning**: NPCs create complex plans to achieve their goals
+🏃 **Location & Movement**: NPCs move between locations pursuing objectives
+💰 **Living Economy**: Dynamic prices based on supply and demand
+⏰ **Time Simulation**: Day/night cycles affect NPC behavior
+🌦️ **Weather System**: Dynamic weather that impacts the world
+🔄 **Emergent Storytelling**: NPCs' autonomous actions create unique stories
+
+➡️ **[See the Living World Guide](LIVING_WORLD_GUIDE.md)** for full details!
+
 ## Installation
 
 1. **Clone the repository**
@@ -72,6 +84,12 @@ export GROQ_API_KEY='your-api-key-here'
 ```
 
 ## Quick Start
+
+### Run the Living World Demo (Recommended!)
+```bash
+python quick_demo.py          # Quick feature demonstration
+python living_world_demo.py   # Full interactive simulation
+```
 
 ### Run the Interactive Game
 ```bash
