@@ -63,6 +63,17 @@ Based on the architecture from the diagram, each NPC consists of three main laye
 
 ➡️ **[See the Living World Guide](LIVING_WORLD_GUIDE.md)** for full details!
 
+### 🤖 LangGraph Multi-Agent System ⭐⭐⭐⭐ CUTTING EDGE
+🧠 **Structured Reasoning**: Perceive → Reason → Plan → Act → Reflect workflow
+🔍 **Transparent Decisions**: Full reasoning traces for debugging
+🤝 **Multi-Agent Coordination**: NPCs work together and negotiate
+💬 **Message Passing**: Inter-agent communication infrastructure
+🎯 **Conditional Logic**: Agents adapt based on state
+📊 **Observable**: Inspect agent thoughts and internal monologue
+🔄 **Scalable**: Production-ready multi-agent architecture
+
+➡️ **[See the LangGraph Implementation Guide](LANGGRAPH_IMPLEMENTATION_SUMMARY.md)** for full details!
+
 ## Installation
 
 1. **Clone the repository**
@@ -85,7 +96,13 @@ export GROQ_API_KEY='your-api-key-here'
 
 ## Quick Start
 
-### Run the Living World Demo (Recommended!)
+### 🚀 Run the LangGraph Multi-Agent Demo (NEWEST!)
+```bash
+pip install langgraph langchain-groq  # Install LangGraph first
+python langgraph_demo.py              # Advanced agentic NPCs
+```
+
+### Run the Living World Demo
 ```bash
 python quick_demo.py          # Quick feature demonstration
 python living_world_demo.py   # Full interactive simulation
